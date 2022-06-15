@@ -1,1 +1,1 @@
-# Virtual-Assistant-using-Python
+This is a virtual assistant which does tasks like opening required websites like YouTube, Google, Gmail, searching Wikipedia about a particular topic, giving weather information of a city, capturing screenshots and photos etc.

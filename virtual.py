@@ -83,7 +83,7 @@ if __name__ == '__main__':
             webbrowser.open_new_tab("https://google.com/search?q=" + statement)
             time.sleep(5)
         elif "weather" in statement:
-            api_key = "9ac653cb64c120c0c8b230eca75fd272"
+            api_key = ""
             base_url = "https://api.openweathermap.org/data/2.5/weather?"
             speak("whats the city name")
             city_name = takeCommand()
